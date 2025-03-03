@@ -1,8 +1,6 @@
-# web-dev-starter
+# Lab M7.2
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This lab revises the css for a web page to match a specified layout 
 
 ## Getting Started
 
@@ -27,3 +25,7 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Testing
+
+I used the resources at https://developer.mozilla.org
